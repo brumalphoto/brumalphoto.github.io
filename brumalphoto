@@ -1,0 +1,5 @@
+cd ~/myblog
+git remote remove origin
+git remote add origin https://github.com/brumalphoto/brumalphoto.github.io.git
+git branch -M main
+git push -u origin main
