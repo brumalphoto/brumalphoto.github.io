@@ -1,0 +1,14 @@
+title: brumalsaito
+description: uploading cool sounds i make
+email: saitosintern@gmail.com
+baseurl: "" # Empty for root domain
+url: "https://brumalphoto.github.io" # Match your site
+theme: jekyll-theme-clean-blog
+plugins:
+  - jekyll-feed
+header_pages:
+  - blockchain.md
+  - about.markdown
+  - contact.md
+  - posts.md
+  - categories.md
