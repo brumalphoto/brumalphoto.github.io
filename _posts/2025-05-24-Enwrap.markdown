@@ -1,0 +1,16 @@
+---
+layout: post
+title: "Enwrap"
+date: 2025-05-25
+categories: 808s
+permalink: /2025/05/25/enwrap/
+---
+Enwraps, or something
+
+<audio controls>
+  <source src="/assets/audio/808/+808_Enwrap_brumalsaito.wav" type="audio/wav">
+  Your browser does not support the audio element.
+</audio>
+<p><a href="/assets/audio/808/+808_Enwrap_brumalsaito.wav" download>Download Enwrap WAV</a></p>
+
+**Description**: "Dead City In Delirium, The Storm Is Coming."

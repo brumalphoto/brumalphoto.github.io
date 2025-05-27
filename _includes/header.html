@@ -1,0 +1,18 @@
+<header class="site-header">
+  <div class="inner">
+    <a class="site-title" href="{{ site.baseurl }}/">{{ site.title }}</a>
+    <nav class="site-nav">
+      {% for page in site.header_pages %}
+        {% assign current = '' %}
+        {% if page == page.permalink or page == page.title %}
+          {% assign current = ' nav-current' %}
+        {% endif %}
+        {% for p in site.pages %}
+          {% if p.permalink == page or p.title == page %}
+            <a class="page-link{{ current }}" href="{{ p.permalink | prepend: site.baseurl }}">{{ p.title }}</a>
+          {% endif %}
+        {% endfor %}
+      {% endfor %}
+    </nav>
+  </div>
+</header>
