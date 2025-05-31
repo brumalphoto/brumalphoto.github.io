@@ -1,8 +1,8 @@
-title: brumalsaito
+title: brumalphoto
 description: uploading cool sounds i make
 email: saitosintern@gmail.com
-baseurl: "" # Empty for root domain
-url: "https://brumalphoto.github.io" # Match your site
+baseurl: ""
+url: "https://brumalphoto.github.io"
 theme: jekyll-theme-clean-blog
 plugins:
   - jekyll-feed
