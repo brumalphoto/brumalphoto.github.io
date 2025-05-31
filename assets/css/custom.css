@@ -1,0 +1,48 @@
+/* @brumalsaito Dark Mode */
+body {
+  background-color: #1c2526; /* Dark teal-gray */
+  color: #d3d7cf; /* Soft light gray */
+}
+
+.site-header {
+  background-color: #2e3436; /* Darker header */
+  border-bottom: 1px solid #4a5253;
+}
+
+.site-title, .site-title:visited, .site-nav .page-link {
+  color: #d3d7cf;
+}
+
+.site-nav .page-link:hover {
+  color: #c2a0c2; /* Muted purple hover */
+}
+
+h1, h2, h3, h4, h5, h6 {
+  color: #d3d7cf;
+}
+
+a {
+  color: #c2a0c2; /* Muted purple links */
+}
+
+a:hover {
+  color: #8b6f8b; /* Darker purple */
+}
+
+.post-content {
+  color: #d3d7cf;
+}
+
+audio {
+  filter: invert(80%) hue-rotate(180deg);
+  width: 100%;
+  max-width: 600px;
+}
+
+p a[download] {
+  color: #c2a0c2;
+}
+
+p a[download]:hover {
+  color: #8b6f8b;
+}
