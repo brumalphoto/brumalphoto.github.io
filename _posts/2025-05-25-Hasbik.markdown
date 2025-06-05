@@ -5,7 +5,7 @@ date: 2025-05-25
 categories: 808s
 permalink: /2025/05/25/hasbik/
 ---
-The silly one >:3
+Bass: The silly one >:3
 
 <audio controls>
   <source src="/assets/audio/808/+808_Hasbik_brumalsaito.wav" type="audio/wav">

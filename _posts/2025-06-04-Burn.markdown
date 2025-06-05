@@ -1,0 +1,16 @@
+---
+layout: post
+title: "Burn"
+date: 2025-06-04
+categories: SFX
+permalink: /2025/06/04/burn/
+---
+SFX: Xanaxii would probably like this.
+
+<audio controls>
+  <source src="/assets/audio/sfx/SFX_Burn_brumalsaito.wav" type="audio/wav">
+  Your browser does not support the audio element.
+</audio>
+<p><a href="/assets/audio/sfx/SFX_Burn_brumalsaito.wav" download>Download Burn WAV</a></p>
+
+**Description**: Gated vox.

@@ -1,0 +1,16 @@
+---
+layout: post
+title: "LA"
+date: 2025-06-02
+categories: kick
+permalink: /2025/06/02/LA/
+---
+Kick: It wasn't a wildfire.
+
+<audio controls>
+  <source src="/assets/audio/kick/Kick_LA_brumalsaito.wav" type="audio/wav">
+  Your browser does not support the audio element.
+</audio>
+<p><a href="/assets/audio/kick/Kick_LA_brumalsaito.wav" download>Download LA WAV</a></p>
+
+**Description**: The fourth turning is here, literally.

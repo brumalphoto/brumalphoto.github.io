@@ -5,12 +5,12 @@ date: 2025-05-26
 categories: atmosphere
 permalink: /2025/05/26/noise/
 ---
-Made with Cheburashka!
+FX: Made with Cheburashka!
 
 <audio controls>
-  <source src="/assets/audio/atmosphere/_atmos_Noise_brumalsaito.wav" type="audio/wav">
+  <source src="/assets/audio/atmosphere/atmos_Noise_brumalsaito.wav" type="audio/wav">
   Your browser does not support the audio element.
 </audio>
-<p><a href="/assets/audio/atmosphere/_atmos_Noise_brumalsaito.wav" download>Download Noise WAV</a></p>
+<p><a href="/assets/audio/atmosphere/atmos_Noise_brumalsaito.wav" download>Download Noise WAV</a></p>
 
 **Description**: Atmosphere.

@@ -1,12 +1,13 @@
 ---
 layout: page
-title: "Contact"
+title: Contact
 permalink: /contact/
 ---
-saitosintern@gmail.com
 
-discord: saitosintern
+Get in touch with me for collabs, custom beats, or just because!
 
-instagram: brumalsaito
+**Email**: [saitosintern@gmail.com](mailto:saitosintern@gmail.com)  
+**Telegram**: [@brumalphoto](https://t.me/brumalphoto)  
+**Solana NFTs**: Check my upcoming airdrops for exclusive soundkits!
 
-telegram channel: brumalphoto
+Drop a message, let’s work

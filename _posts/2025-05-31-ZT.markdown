@@ -1,0 +1,16 @@
+---
+layout: post
+title: "ZT"
+date: 2025-05-31
+categories: crash
+permalink: /2025/05/31/zt/
+---
+Crash: Zay Alt #2
+
+<audio controls>
+  <source src="/assets/audio/crash/Crash_ZT_brumalsaito.wav" type="audio/wav">
+  Your browser does not support the audio element.
+</audio>
+<p><a href="/assets/audio/crash/Crash_ZT_brumalsaito.wav" download>Download ZT WAV</a></p>
+
+**Description**: Saturated harmonics for the high pass, and a lowpass of the original for structure.

@@ -1,0 +1,16 @@
+---
+layout: post
+title: "Tac"
+date: 2025-06-01
+categories: hi hat
+permalink: /2025/06/01/tac/
+---
+Hi Hat: Refreshingly minty.
+
+<audio controls>
+  <source src="/assets/audio/hi hat/Hi Hat_Tac_brumalsaito.wav" type="audio/wav">
+  Your browser does not support the audio element.
+</audio>
+<p><a href="/assets/audio/hi hat/Hi Hat_Tac_brumalsaito.wav" download>Download Tac WAV</a></p>
+
+**Description**: Minted to be used as is or molded with engineering. Whatever. Sounds good.

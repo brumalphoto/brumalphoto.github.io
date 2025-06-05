@@ -5,7 +5,7 @@ date: 2025-05-25
 categories: 808s
 permalink: /2025/05/25/forgotten/
 ---
-Best unsaturated.
+Bass: Best unsaturated.
 
 <audio controls>
   <source src="/assets/audio/808/+808_Forgotten_brumalsaito.wav" type="audio/wav">

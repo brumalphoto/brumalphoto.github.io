@@ -1,0 +1,16 @@
+---
+layout: post
+title: "VVII"
+date: 2025-05-26
+categories: clap
+permalink: /2025/05/26/vvii/
+---
+Clap: Inspired by prod. neyyasnost, formerly vvii
+
+<audio controls>
+  <source src="/assets/audio/clap/Clap_VVII_@brumalsaito.wav" type="audio/wav">
+  Your browser does not support the audio element.
+</audio>
+<p><a href="/assets/audio/clap/Clap_VVII_@brumalsaito.wav" download>Download VVII WAV</a></p>
+
+**Description**: Usually for ambience, but has great versatility.

@@ -1,0 +1,16 @@
+---
+layout: post
+title: "Tom"
+date: 2025-06-04
+categories: tom
+permalink: /2025/06/04/fun/
+---
+Tom: It's perfect.
+
+<audio controls>
+  <source src="/assets/audio/tom/Tom_Fun_brumalsaito.wav" type="audio/wav">
+  Your browser does not support the audio element.
+</audio>
+<p><a href="/assets/audio/tom/Tom_Fun_brumalsaito.wav" download>Download Fun WAV</a></p>
+
+**Description**: Clean tom. Sort of robotic.

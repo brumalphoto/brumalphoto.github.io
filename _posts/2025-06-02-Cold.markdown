@@ -1,0 +1,16 @@
+---
+layout: post
+title: "Cold"
+date: 2025-06-02
+categories: perc
+permalink: /2025/06/02/cold/
+---
+Perc: Greenland or Siberia?
+
+<audio controls>
+  <source src="/assets/audio/perc/Perc_Cold_brumalsaito.wav" type="audio/wav">
+  Your browser does not support the audio element.
+</audio>
+<p><a href="/assets/audio/perc/Perc_Cold_brumalsaito.wav" download>Download Cold WAV</a></p>
+
+**Description**: Ambigous in use, but expiramental? Not really. Most useful as a hit hat substitute during a 'bridge' of a song.

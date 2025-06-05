@@ -1,0 +1,16 @@
+---
+layout: post
+title: "Hit"
+date: 2025-05-31
+categories: crash
+permalink: /2025/05/31/hit/
+---
+Crash: Pause the hats for this one.
+
+<audio controls>
+  <source src="/assets/audio/crash/Crash_Hit_brumalsaito.wav" type="audio/wav">
+  Your browser does not support the audio element.
+</audio>
+<p><a href="/assets/audio/crash/Crash_Hit_brumalsaito.wav" download>Download Hit WAV</a></p>
+
+**Description**: Void of Route.

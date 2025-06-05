@@ -1,0 +1,16 @@
+---
+layout: post
+title: "Tic"
+date: 2025-06-01
+categories: hi hat
+permalink: /2025/06/01/tic/
+---
+Hi Hat: ima str8 flecksirr, ima str8 baller!
+
+<audio controls>
+  <source src="/assets/audio/hi hat/Hi Hat_Tic_brumalsaito.wav" type="audio/wav">
+  Your browser does not support the audio element.
+</audio>
+<p><a href="/assets/audio/hi hat/Hi Hat_Tic_brumalsaito.wav" download>Download Tic WAV</a></p>
+
+**Description**: Two sedimentary rocks shook hands.

@@ -1,0 +1,16 @@
+---
+layout: post
+title: "Silencer"
+date: 2025-06-04
+categories: SFX
+permalink: /2025/06/04/silencer/
+---
+SFX: Vibrates like earings. Tesla wouldn't like this sound.
+
+<audio controls>
+  <source src="/assets/audio/sfx/SFX_Silencer_brumalsaito.wav" type="audio/wav">
+  Your browser does not support the audio element.
+</audio>
+<p><a href="/assets/audio/sfx/SFX_Silencer_brumalsaito.wav" download>Download Silencer WAV</a></p>
+
+**Description**: Stagnating, resonating harmonics.
