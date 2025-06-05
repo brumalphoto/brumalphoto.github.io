@@ -5,7 +5,7 @@ date: 2025-05-25
 categories: 808s
 permalink: /2025/05/25/enwrap/
 ---
-Enwraps, or something
+Bass: Enwraps, or something
 
 <audio controls>
   <source src="/assets/audio/808/+808_Enwrap_brumalsaito.wav" type="audio/wav">
