@@ -1,0 +1,10 @@
+---
+layout: post
+title: Tic
+date: 2025-06-04
+categories: hi-hat
+---
+<audio controls>
+  <source src="/assets/audio/hi hat/Hi Hat_Tic_brumalsaito.wav" type="audio/wav">
+</audio>
+<p><a href="/assets/audio/hi hat/Hi Hat_Tic_brumalsaito.wav" download>Download Tic WAV</a></p>

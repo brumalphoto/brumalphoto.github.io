@@ -1,0 +1,10 @@
+---
+layout: post
+title: Cold
+date: 2025-06-04
+categories: perc
+---
+<audio controls>
+  <source src="/assets/audio/perc/Perc_Cold_brumalsaito.wav" type="audio/wav">
+</audio>
+<p><a href="/assets/audio/perc/Perc_Cold_brumalsaito.wav" download>Download Cold WAV</a></p>2025-06-04-Ornament.markdown

@@ -1,0 +1,10 @@
+---
+layout: post
+title: Hit
+date: 2025-06-04
+categories: crash
+---
+<audio controls>
+  <source src="/assets/audio/crash/Crash_Hit_brumalsaito.wav" type="audio/wav">
+</audio>
+<p><a href="/assets/audio/crash/Crash_Hit_brumalsaito.wav" download>Download Hit WAV</a></p>

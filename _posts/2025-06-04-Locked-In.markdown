@@ -1,0 +1,10 @@
+---
+layout: post
+title: Locked In
+date: 2025-06-04
+categories: 808
+---
+<audio controls>
+  <source src="/assets/audio/808/808_Locked In_brumalsaito.wav" type="audio/wav">
+</audio>
+<p><a href="/assets/audio/808/808_Locked In_brumalsaito.wav" download>Download Locked In WAV</a></p>

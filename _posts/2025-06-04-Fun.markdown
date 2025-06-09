@@ -1,0 +1,10 @@
+---
+layout: post
+title: Fun
+date: 2025-06-04
+categories: tom
+---
+<audio controls>
+  <source src="/assets/audio/tom/Tom_Fun_brumalsaito.wav" type="audio/wav">
+</audio>
+<p><a href="/assets/audio/tom/Tom_Fun_brumalsaito.wav" download>Download Fun WAV</a></p>

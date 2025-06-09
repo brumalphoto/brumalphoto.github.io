@@ -1,0 +1,10 @@
+---
+layout: post
+title: Enwrap
+date: 2025-06-04
+categories: 808
+---
+<audio controls>
+  <source src="/assets/audio/808/+808_Enwrap_brumalsaito.wav" type="audio/wav">
+</audio>
+<p><a href="/assets/audio/808/+808_Enwrap_brumalsaito.wav" download>Download Enwrap WAV</a></p>

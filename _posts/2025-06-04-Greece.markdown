@@ -1,0 +1,10 @@
+---
+layout: post
+title: Greece
+date: 2025-06-04
+categories: hi-hat
+---
+<audio controls>
+  <source src="/assets/audio/hi hat/Hi Hat_Greece_brumalsaito.wav" type="audio/wav">
+</audio>
+<p><a href="/assets/audio/hi hat/Hi Hat_Greece_brumalsaito.wav" download>Download Greece WAV</a></p>

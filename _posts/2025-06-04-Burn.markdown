@@ -1,0 +1,10 @@
+---
+layout: post
+title: Burn
+date: 2025-06-04
+categories: sfx
+---
+<audio controls>
+  <source src="/assets/audio/sfx/SFX_Burn_brumalsaito.wav" type="audio/wav">
+</audio>
+<p><a href="/assets/audio/sfx/SFX_Burn_brumalsaito.wav" download>Download Burn WAV</a></p>
