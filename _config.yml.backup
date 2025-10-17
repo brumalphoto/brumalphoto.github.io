@@ -1,9 +1,9 @@
 title: brumalphoto
-email: your-email@example.com
-description: Trap beats by @brumalsaito
+email: saitosintern@gmail.com
+description: Sounds by @brumalsaito
 baseurl: ""
 url: "https://brumalphoto.github.io"
-twitter_username: brumalsaito
+twitter_username: brumal127584
 github_username: brumalphoto
 theme: jekyll-theme-clean-blog
 plugins:
