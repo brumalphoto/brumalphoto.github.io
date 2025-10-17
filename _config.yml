@@ -2,7 +2,7 @@ title: brumalphoto
 email: your-email@example.com
 description: Trap beats by @brumalsaito
 baseurl: ""
-url: https://brumalphoto.github.io
+url: "https://brumalphoto.github.io"
 twitter_username: brumalsaito
 github_username: brumalphoto
 theme: jekyll-theme-clean-blog
